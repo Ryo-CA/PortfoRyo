@@ -1,4 +1,4 @@
-# PortfRyo
+# PortfoRyo
 The static website to showcase my personal projects 
 
 
